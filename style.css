@@ -1,0 +1,32 @@
+html {
+    background-color:bisque;
+}
+
+h1 {
+    color: green;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color:brown;
+}
+
+table {
+    color:floralwhite;
+    background-color:blueviolet;
+}
+
+ul {
+    color:rgb(2, 109, 73);
+}
+
+label {
+    color:lightcoral
+}
+
+input {
+    color:rgb(233, 5, 81)
+}
